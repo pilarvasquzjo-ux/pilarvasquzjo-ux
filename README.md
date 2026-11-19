@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h1 align="center">Hi 👋, I'm angela vasquez</h1>
+<h3 align="center">computer systems student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**I'm a computer science student in my first semester, and I'm learning how to create a website.
+I want to learn everything I can about computer science.**
 
------
-
-:computer: **Software Engineer**  
+:computer: **Software student**  
 :eyeglasses: **Hardcore Geek (is geek still used?)**  
 :oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
@@ -15,9 +14,9 @@
 
 ### What I work with
 
-**Languages:** TypeScript · JavaScript · Python · SQL
+**Languages:** ·  ·  · 
 
-**Backend & infra:** Node.js · NestJS · FastAPI · Docker · PostgreSQL · Redis · GitHub Actions
+**Backend & infra:** . ·  ·  ·  · ·  ·  
 
 **Frontend:** Angular · React  · Tailwind CSS
 
