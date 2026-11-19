@@ -32,7 +32,7 @@ I want to learn everything I can about computer science.**
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandgo" height="30" width="40" /></a>
 <a href="https://x.com/GoJuand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankgrijalba" height="30" width="40" /></a>
-<img srct="./img/image.png"></img>
+<img src="./img/image.png" with="40" heigth="30"></img>
 </p>
 
 
